@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Material Components for Flutter Codelabs
 
 This repository contains four codelabs for [Material Components for Flutter](https://github.com/material-components/material-components-flutter).
