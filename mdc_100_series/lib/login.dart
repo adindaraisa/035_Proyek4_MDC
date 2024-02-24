@@ -43,6 +43,20 @@ class _LoginPageState extends State<LoginPage> {
                   'SHRINE',
                   style: Theme.of(context).textTheme.headlineSmall,
                 ),
+                Text(
+                  'Adinda Raisa Az-zahra',
+                  style: TextStyle(
+                  fontWeight: FontWeight.w500,
+                  fontSize: 18,
+                  ),
+                ),
+                Text(
+                  '221511035 - 2B - D3',
+                  style: TextStyle(
+                  fontWeight: FontWeight.w500,
+                  fontSize: 18,
+                  ),
+                ),
               ],
             ),
             const SizedBox(height: 120.0),
