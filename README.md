@@ -6,39 +6,18 @@ This repository contains four codelabs for [Material Components for Flutter](htt
 
 Codelabs MDC-101 through MDC-104 will guide you through building and integrating one application with MDC-Flutter.
 
-## Branches
+# Screenshot Aplikasi
+![WhatsApp Image 2024-02-24 at 21 53 10_928ef94e](https://github.com/adindaraisa/035_Proyek4_MDC/assets/117048747/e8c5defb-dedc-44f9-b14e-90f23618c4dd)
 
-The starter and completed code is in the various branches of this repo.
+![WhatsApp Image 2024-02-24 at 21 53 10_3f309fa4](https://github.com/adindaraisa/035_Proyek4_MDC/assets/117048747/a9967e48-c165-42d3-9307-816cad9e3c22)
 
-## Getting Started
+![WhatsApp Image 2024-02-24 at 21 53 10_c0ff0667](https://github.com/adindaraisa/035_Proyek4_MDC/assets/117048747/5475f1c9-ae26-4170-81b3-5896eb0c94bd)
 
-Visit the [Google codelabs site](https://codelabs.developers.google.com/), or [codelabs.developers.google.com/codelabs/mdc-101-flutter](https://codelabs.developers.google.com/codelabs/mdc-101-flutter), to follow along the guided steps.
+![WhatsApp Image 2024-02-24 at 21 53 10_ece0cf42](https://github.com/adindaraisa/035_Proyek4_MDC/assets/117048747/6030d213-5718-4a3e-b879-a56a0c5e65ba)
 
-## Support
+![WhatsApp Image 2024-02-24 at 21 53 10_77eda781](https://github.com/adindaraisa/035_Proyek4_MDC/assets/117048747/5c8366cb-419d-4509-8c8c-983924e63b7c)
 
-If you've found an error in this sample, please file an issue on [GitHub](https://github.com/material-components/material-components-flutter-codelabs/issues).
 
-Patches are encouraged, and may be submitted by forking this project and
-submitting a pull request through GitHub.
 
-## License
-
-Copyright 2018 Google, Inc.
-
-Licensed to the Apache Software Foundation (ASF) under one or more contributor
-license agreements. See the NOTICE file distributed with this work for
-additional information regarding copyright ownership. The ASF licenses this
-file to you under the Apache License, Version 2.0 (the "License"); you may not
-use this file except in compliance with the License. You may obtain a copy of
-the License at
-
-http://www.apache.org/licenses/LICENSE-2.0
-
-Unless required by applicable law or agreed to in writing, software
-distributed under the License is distributed on an "AS IS" BASIS, WITHOUT
-WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the
-License for the specific language governing permissions and limitations under
-the License.
-=======
 # 035_Proyek4_MDC
 
